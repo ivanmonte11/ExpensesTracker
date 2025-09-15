@@ -1,0 +1,15 @@
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.AssemblyInfoInputs.cache
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.AssemblyInfo.cs
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.sourcelink.json
+C:\Users\ivanm\ExpensesTracker\coreApp\bin\Debug\net9.0\CoreApp.exe
+C:\Users\ivanm\ExpensesTracker\coreApp\bin\Debug\net9.0\CoreApp.deps.json
+C:\Users\ivanm\ExpensesTracker\coreApp\bin\Debug\net9.0\CoreApp.runtimeconfig.json
+C:\Users\ivanm\ExpensesTracker\coreApp\bin\Debug\net9.0\CoreApp.dll
+C:\Users\ivanm\ExpensesTracker\coreApp\bin\Debug\net9.0\CoreApp.pdb
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.dll
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\refint\CoreApp.dll
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.pdb
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\CoreApp.genruntimeconfig.cache
+C:\Users\ivanm\ExpensesTracker\coreApp\obj\Debug\net9.0\ref\CoreApp.dll
